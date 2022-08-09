@@ -12,7 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## About the project ( User )
 
-- Cherry & Honey is a food website where clients can view the existing products and addd them to the cart
+- Cherry & Honey is a food website where clients can view the existing product details and add them to the cart
 
 - After choosing the desired quantity clients can proceed to the checkout page where they can choose between shipping options ( Free shipping - Fast Shipping - Normal Shipping ) 
 
@@ -22,6 +22,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![ch2](https://user-images.githubusercontent.com/80659125/183553666-e07b6767-5a67-437d-bf38-aba01f53c70c.png)
 ![ch3](https://user-images.githubusercontent.com/80659125/183553691-82e86659-9dd2-46ed-a169-de69952d84c3.png)
 ![ch4](https://user-images.githubusercontent.com/80659125/183553696-f4e71897-34df-4211-a39e-6c49cab687d2.png)
+![image](https://user-images.githubusercontent.com/80659125/183556253-e4e81c39-074d-4618-b505-298df7d43397.png)
 ![ch5](https://user-images.githubusercontent.com/80659125/183553709-91809562-aec3-4868-8cef-11dbd33e6d5a.png)
 ![ch6](https://user-images.githubusercontent.com/80659125/183553711-61bc550d-62d1-4be3-b31b-2fd985f0a75c.png)
 
