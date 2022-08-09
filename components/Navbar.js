@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link'
 import { AiOutlineShoppingCart } from 'react-icons/ai'
 
-import { Cart } from './'
+import { Cart } from '.'
 import { useStateContext } from '../context/StateContext'
 
 const Navbar = () => {
