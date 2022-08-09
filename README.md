@@ -1,5 +1,3 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
@@ -12,23 +10,30 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## About the project ( User )
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- Cherry & Honey is a food website where clients can view the existing products and addd them to the cart
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- After checking the ddesired quantity clients can proceed to the checkout page where they can choose between the shiping options ( Free shipping - Fast Shipping - Normal Shipping ) 
 
-## Learn More
+- Afterwards you will have to enter their bank details to proceed with the payment aftere successful payment you will be redirected to the success page and you will be receiving an email containing your receipt
 
-To learn more about Next.js, take a look at the following resources:
+![ch1](https://user-images.githubusercontent.com/80659125/183554374-b40114eb-8746-4289-9135-2a5799f873d3.png)
+![ch2](https://user-images.githubusercontent.com/80659125/183553666-e07b6767-5a67-437d-bf38-aba01f53c70c.png)
+![ch3](https://user-images.githubusercontent.com/80659125/183553691-82e86659-9dd2-46ed-a169-de69952d84c3.png)
+![ch4](https://user-images.githubusercontent.com/80659125/183553696-f4e71897-34df-4211-a39e-6c49cab687d2.png)
+![ch5](https://user-images.githubusercontent.com/80659125/183553709-91809562-aec3-4868-8cef-11dbd33e6d5a.png)
+![ch6](https://user-images.githubusercontent.com/80659125/183553711-61bc550d-62d1-4be3-b31b-2fd985f0a75c.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## About the project ( Admin )
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- As an admin you will have access to Sanity dashboard where you will be able to view existing products and the current Header/Footer banner of the website and you will be able to change all of that easily
 
-## Deploy on Vercel
+- You will also have access to Stripe Panel andd you will be able to check current payments if the paymeent failed or successful you can also check more details about the order such as the name and email of the user and the product/quantity of the product
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![ch7](https://user-images.githubusercontent.com/80659125/183553720-acdff0ef-c558-47f4-958d-8fb15f5074cb.png)
+![ch8](https://user-images.githubusercontent.com/80659125/183553734-7fcc2583-593c-4ce7-b4d1-40d14982cd62.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+This project is made using [Next.js](https://nextjs.org/) - HTML - CSS - Sanity - Stripe ( for payment ) - React Context API ( State management ) 
+
