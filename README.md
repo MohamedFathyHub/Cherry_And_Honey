@@ -36,5 +36,5 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ![ch8](https://user-images.githubusercontent.com/80659125/183553734-7fcc2583-593c-4ce7-b4d1-40d14982cd62.png)
 
 
-This project is made using [Next.js](https://nextjs.org/) - HTML - CSS - Sanity - Stripe ( for payment ) - React Context API ( State management ) ...
+This project is made using [Next.js](https://nextjs.org/) - HTML - CSS - Sanity - Stripe ( for payment ) - React Context API ( State management ) ..
 
